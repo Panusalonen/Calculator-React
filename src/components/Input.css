@@ -1,0 +1,12 @@
+.input {
+    border: 1px;
+    height: 4em;
+    display: flex;
+    justify-content: center;
+    font-family: "Rubik";
+    align-items: center;
+    font-weight: bold;
+    font-size: 1.8em;
+    background-color: black;
+    color: white;
+}
